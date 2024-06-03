@@ -1,1 +1,3 @@
-# Etch-A-Sketch
+# Etch-A-Sketch Project
+
+This project is part of The Odin Project curriculum and features an interactive Etch-A-Sketch web application. It includes a 16x16 grid of square divs, dynamically created using JavaScript and styled with Flexbox. Users can hover over the squares to change their color, creating a pixelated trail effect. A button allows users to reset the grid size, enabling customization. This project helps practice JavaScript, HTML, and CSS skills.
